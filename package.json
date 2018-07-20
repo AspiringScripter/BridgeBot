@@ -1,8 +1,8 @@
 {
-  "name": "BridgeBot",
-  "description": "Testing online bot!",
-  "version": "0.0.1",
-  "main": "index.js"m
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
   "scripts": {
     "start": "node index.js"
   },
